@@ -71,7 +71,7 @@ body {
 
 
 .header-wrapper{
-  background-image: url("./assets/bg.jpg");
+  background-image: url("./assets/bg.png");
   background-size: cover;
   background-position: center;
   position: relative;
@@ -140,7 +140,7 @@ nav {
 
 .nav__links a {
   font-weight: 500;
-  color: var(--white);
+  color: white;
 }
 
 .nav__search {
@@ -541,7 +541,7 @@ nav {
   }
 
   .nav__links a {
-    color: var(--text-dark);
+    color: white;
   }
 
   .nav__links a:hover {
